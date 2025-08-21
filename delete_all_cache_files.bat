@@ -1,11 +1,12 @@
 @echo off
-REM Deletes all files and folders in the specified directory
+REM Delete all subfolders under %TEMP%\webtorrent
 
-SET "TARGET=C:\Users\jobay\AppData\Local\Temp\webtorrent"
+SET "TARGET=%TEMP%\webtorrent"
 
-REM Delete all files
-del /f /q "%TARGET%\*.*"
+echo Deleting all subfolders in %TARGET%...
 
-REM Delete all subfolders
 for /d %%i in ("%TARGET%\*") do rd /s /q "%%i"
+
+
+
 
