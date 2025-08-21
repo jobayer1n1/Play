@@ -1,6 +1,6 @@
 # PLAY 
-an integration of webtorrent-cli & vlc
-
+An integration of webtorrent-cli & vlc
+<br>
 # setup
 Run setup.bat [double click on it] 
 <br><br>
