@@ -1,5 +1,5 @@
 # setup
-  run setup.bat
+Run setup.bat [double click on it] 
 <br><br>
 # how-to-use
 - open RUN dialogue [win+R]<br>
