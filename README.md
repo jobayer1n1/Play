@@ -2,7 +2,7 @@
   run setup.bat
 <br><br>
 # how-to-use
-play {magnet-link to stream} ⬇️
+play {paste the magnet-link to stream} ⬇️
 <br/><br/>
 <img width="405" height="209" alt="Screenshot 2025-08-21 163009" src="https://github.com/user-attachments/assets/dce4c0d8-c22c-4d92-880c-4cd666290257" />
 <br/><br/>
