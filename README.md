@@ -35,4 +35,4 @@ npm uninstall -g webtorrent-cli
 - uninstalling nodejs: please uninstall nodejs manually from Apps & features like normal programs
 - remove the folder path from environment variables
 <br>
-Uninstalling COMPLETED
+Uninstallation completed
