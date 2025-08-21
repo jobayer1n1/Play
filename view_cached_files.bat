@@ -1,4 +1,4 @@
 @echo off
-REM Open the target folder in File Explorer
+REM Open the %TEMP%\webtorrent folder in File Explorer
 
-START "" "C:\Users\jobay\AppData\Local\Temp\webtorrent"
+START "" "%TEMP%\webtorrent"
