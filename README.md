@@ -1,5 +1,5 @@
 # PLAY 
-An integration of webtorrent-cli & vlc
+Integration of webtorrent-cli & vlc
 <br>An easy way to stream torrent musics and videos
 <br>
 # setup
