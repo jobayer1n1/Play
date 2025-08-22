@@ -1,6 +1,6 @@
 # PLAY 
 An integration of webtorrent-cli & vlc
-<br>The easiest way to stream torrent musics and videos
+<br>An easy way to stream torrent musics and videos
 <br>
 # setup
 Run setup.bat. [double click on it]
