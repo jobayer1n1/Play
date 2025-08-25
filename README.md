@@ -6,8 +6,8 @@ Integration of webtorrent-cli & vlc
 Download latest release and unzip it<br>
 Run setup.bat. [double click on it]
 <br>
-- It will install nodejs & webtorrent-cli.<br>
-- It will also put the "./helper_scripts" folder path in the global PATH variables.
+- It will install nodejs & webtorrent-cli.[automated]<br>
+- It will also put the "./helper_scripts" folder path in the global PATH variables.[automated]
 <br><br>
 NOTE: make sure vlc is already installed
 <br><br>
