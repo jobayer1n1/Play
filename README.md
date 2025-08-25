@@ -3,6 +3,7 @@ Integration of webtorrent-cli & vlc
 <br>An easy way to stream torrent musics and videos
 <br>
 # setup
+Download latest release and unzip it<br>
 Run setup.bat. [double click on it]
 <br>
 - It will install nodejs & webtorrent-cli.<br>
